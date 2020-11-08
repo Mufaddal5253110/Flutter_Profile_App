@@ -1,4 +1,5 @@
-# Flutter Project 1
+# Flutter Profile Page
+
 <img src="https://user-images.githubusercontent.com/60619133/98248589-2a991700-1f9b-11eb-93a9-de756854d8b7.png" alt="feed example" width = "250">
 
 ## Getting Started
